@@ -7,15 +7,15 @@ Both client & server are ES6.
 
 Default port: 3000.
 
-1. axios,
-2. react-router-dom,
+1. axios.
+2. react-router-dom.
 3. Material UI.
 
 # Extra packages to server:
 
 Default port: 8000.
 
-1. nodemon - {dev dependency}
+1. nodemon - as dev dependency.
 2. Express.
 3. body-parser.
 4. uuid.
