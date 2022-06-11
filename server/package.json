@@ -4,10 +4,12 @@
 	"description": "",
 	"main": "src/server.js",
 	"scripts": {
+		"server": "npm run src/server.js",
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"author": "Yaron",
 	"license": "MIT",
+	"type": "module",
 	"dependencies": {
 		"body-parser": "^1.20.0",
 		"express": "^4.18.1",
