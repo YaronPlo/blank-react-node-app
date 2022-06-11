@@ -15,7 +15,7 @@ Default port: 3000.
 
 Default port: 8000.
 
-1. nodemon - as dev dependency
+1. nodemon - as dev dependency.
 2. Express.
 3. body-parser.
 4. uuid.
