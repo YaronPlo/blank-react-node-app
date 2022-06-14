@@ -1,4 +1,4 @@
-# Blank React-Node Project.
+# Blank React-Node App.
 
 This is a blank template react-node app.<br>
 Both client & server are ES6.
