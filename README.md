@@ -13,7 +13,7 @@ Default port: 3000.
 
 # Extra packages to server:
 
-Default port: 8000.
+Default port: 8080.
 
 1. nodemon - as dev dependency.
 2. Express.
